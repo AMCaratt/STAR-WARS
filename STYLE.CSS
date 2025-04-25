@@ -1,0 +1,35 @@
+imperio {
+    background-color: red;
+  }
+  
+  .rebeldes {
+    background-color: blue;
+  }
+  
+  /* Estilos individuales */
+  #darth-vader {
+    font-size: 1.5em;
+  }
+  
+  #luke {
+    font-style: italic;
+  }
+  
+  /* Estilos para soldados */
+  .soldado {
+    border: 2px dashed gray;
+    letter-spacing: 2px;
+    padding: 5px;
+    margin: 5px 0;
+  }
+  
+  /* Estilos para unidades de apoyo */
+  .apoyo {
+    text-align: center;
+  }
+  
+  /* Estilos para naves */
+  .nave {
+    text-transform: uppercase;
+  }
+  
